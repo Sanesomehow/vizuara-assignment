@@ -70,7 +70,7 @@ export default function EmotionDetectiveApp() {
       : mood === "excited"
       ? "bg-gradient-to-br from-yellow-400 to-orange-500"
       : mood === "sad"
-      ? "bg-gradient-to-br from-blue-400 to-gray-500"
+      ? "bg-gradient-to-br from-slate-400 to-gray-500"
       : "bg-gradient-to-br from-green-400 to-teal-500"
   }`}>
           <Lottie animationData={aiAssistant} loop={true} style={{ width: 120, height: 120 }} />
