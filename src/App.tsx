@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { ArrowLeft, Brain, Eye, Heart, Target, Zap, Star, ChevronRight, Sparkles } from "lucide-react";
 import Lottie from "lottie-react";
-import abstractionAnimation from "./assets/Abstraction.json";
+// import abstractionAnimation from "./assets/Abstraction.json";
 import aiAssistant from "./assets/AI-assistant.json";
 
 export default function EmotionDetectiveApp() {
